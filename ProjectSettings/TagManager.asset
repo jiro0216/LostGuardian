@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Tag
+  - Logic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bird
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background 2
+    uniqueID: 3235364839
+    locked: 0
+  - name: Background
+    uniqueID: 2100730417
+    locked: 0
+  - name: Foreground
+    uniqueID: 986300519
+    locked: 0
+  - name: Cloud 2
+    uniqueID: 1814266717
+    locked: 0
+  - name: Coin
+    uniqueID: 272832329
+    locked: 0
+  - name: Pipe
+    uniqueID: 2153685519
+    locked: 0
+  - name: Bird
+    uniqueID: 4013606107
+    locked: 0
+  - name: Cloud 1
+    uniqueID: 3267180547
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
